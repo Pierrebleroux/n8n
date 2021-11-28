@@ -399,6 +399,7 @@
       "dist/nodes/FileMaker/FileMaker.node.js",
       "dist/nodes/Freshservice/Freshservice.node.js",
       "dist/nodes/Ftp.node.js",
+      "dist/nodes/FriendGrid/FriendGrid.node.js",
       "dist/nodes/Freshdesk/Freshdesk.node.js",
       "dist/nodes/FreshworksCrm/FreshworksCrm.node.js",
       "dist/nodes/FormIo/FormIoTrigger.node.js",
